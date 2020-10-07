@@ -10,3 +10,4 @@ enabled = true
     "browser"
   ]
   module_system = "es-modules"
+  plugins = ['react']
